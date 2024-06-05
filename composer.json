@@ -6,7 +6,7 @@
     "authors": [
         {
             "name": "Hasib Kamamal Chowdhury",
-            "hasibkamal.cse@gmail.com"
+            "email": "hasibkamal.cse@gmail.com"
         }
     ],
     "minimum-stability": "dev",
